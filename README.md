@@ -1,4 +1,4 @@
-# Kaunas Coding School projects
+# Kaunas Coding School Python Projects
 
 ## Group 03
 
