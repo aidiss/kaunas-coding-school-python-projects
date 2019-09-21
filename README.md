@@ -12,7 +12,7 @@ In progress.
 - [Weather Visuals](https://github.com/IgneGec/Weather-Visuals.git)
 - [OCR web service with flask](https://github.com/IamMoma/OCRpy)
 - [PDF table reader seb service with flask](https://github.com/RyGintas/kcs_project.git)
-- [Object recognition in video](https://github.com/eXTure/coding-school-project)
+- [Video Content Measuring Tool](https://github.com/eXTure/Video-Content-Measuring-Tool)
 
 ## Group 01
 
