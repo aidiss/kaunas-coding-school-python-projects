@@ -2,7 +2,12 @@
 
 ## Group 03
 
-In progress.
+- [Price Alert](github.com/LukasPaleckis/price-alert)
+- [Akciju kainos](github.com/Shliosen/akciju_kainos_judejimas)
+- [Samatos skaiciavimas](github.com/Eldarasss/Samatos-skaiciavimo-program)
+- [Teksto Atrinkejas Is PDF](github.com/vilisperis/Teksto-atrinkejas-is-pdf-jpeg)
+- [Brezynio konvertavimas](github.com/sinushas/Brezynio_Konvertavimas)
+- [Point Cloud to IFC](github.com/pakavaliauskas/PointCloudtoIFC)
 
 ## Group 02 
 
