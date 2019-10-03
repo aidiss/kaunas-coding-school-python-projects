@@ -2,12 +2,12 @@
 
 ## Group 03
 
-- [Price Alert](www.github.com/LukasPaleckis/price-alert)
-- [Akciju kainos](www.github.com/Shliosen/akciju_kainos_judejimas)
-- [Samatos skaiciavimas](www.github.com/Eldarasss/Samatos-skaiciavimo-program)
-- [Teksto Atrinkejas Is PDF](www.github.com/vilisperis/Teksto-atrinkejas-is-pdf-jpeg)
-- [Brezynio konvertavimas](www.github.com/sinushas/Brezynio_Konvertavimas)
-- [Point Cloud to IFC](www.github.com/pakavaliauskas/PointCloudtoIFC)
+- [Price Alert](https://github.com/LukasPaleckis/price-alert)
+- [Akciju kainos](https://github.com/Shliosen/akciju_kainos_judejimas)
+- [Samatos skaiciavimas](https://github.com/Eldarasss/Samatos-skaiciavimo-program)
+- [Teksto Atrinkejas Is PDF](https://github.com/vilisperis/Teksto-atrinkejas-is-pdf-jpeg)
+- [Brezynio konvertavimas](https://github.com/sinushas/Brezynio_Konvertavimas)
+- [Point Cloud to IFC](https://github.com/pakavaliauskas/PointCloudtoIFC)
 
 ## Group 02 
 
