@@ -4,7 +4,7 @@
 
 - [Price Alert](https://github.com/LukasPaleckis/price-alert)
 - [Akciju kainos](https://github.com/Shliosen/akciju_kainos_judejimas)
-- [Samatos skaiciavimas](https://github.com/Eldarasss/Samatos-skaiciavimo-program)
+- [Samatos skaiciavimas](https://github.com/Eldarasss/Samatos-skaiciavimo-programa)
 - [Teksto Atrinkejas Is PDF](https://github.com/vilisperis/Teksto-atrinkejas-is-pdf-jpeg)
 - [Brezynio konvertavimas](https://github.com/sinushas/Brezynio_Konvertavimas)
 - [Point Cloud to IFC](https://github.com/pakavaliauskas/PointCloudtoIFC)
